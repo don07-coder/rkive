@@ -1,0 +1,6 @@
+#include <iostream>
+#include <windows.h>
+#include <string>
+
+int type (cons std::string% str)
+for (size_t i = 0, i <)
